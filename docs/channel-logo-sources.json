@@ -1,0 +1,902 @@
+{
+  "CBFT": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/ICI_Grand_Montr%C3%A9al_logo_2018.svg/330px-ICI_Grand_Montr%C3%A9al_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 50,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/ICI_Grand_Montr%C3%A9al_logo_2018.svg/960px-ICI_Grand_Montr%C3%A9al_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/87/ICI_Grand_Montr%C3%A9al_logo_2018.svg/330px-ICI_Grand_Montr%C3%A9al_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 50,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/8/87/ICI_Grand_Montr%C3%A9al_logo_2018.svg/960px-ICI_Grand_Montr%C3%A9al_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/ICI_Grand_Montr%C3%A9al_logo_2018.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ICI_Grand_Montr%C3%A9al_logo_2018.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=150479420",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2024-07-18 18:59:27",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "ICI Grand Montréal logo 2018",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|ICI Radio-Canada Télé|PD textlogo|SVG text logos|Logos of Radio-Canada|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of CBFT-DT since 2018.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://ici.radio-canada.ca/unit/Content/_images/logo/svg/colored/grandmontreal.svg\">https://ici.radio-canada.ca/unit/Content/_images/logo/svg/colored/grandmontreal.svg</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Société Radio-Canada",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CBMT": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CBMT-DT_logo.svg/330px-CBMT-DT_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 136,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CBMT-DT_logo.svg/960px-CBMT-DT_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CBMT-DT_logo.svg/330px-CBMT-DT_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 136,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/CBMT-DT_logo.svg/960px-CBMT-DT_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/CBMT-DT_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:CBMT-DT_logo.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=159737181",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-02-14 11:24:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "CBMT-DT logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Canadian Broadcasting Corporation logos|Images from Logopedia|SVG logos with transparent background",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "CBMT-DT logo",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://logos.fandom.com/wiki/CBMT-DT\">https://logos.fandom.com/wiki/CBMT-DT</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Canadian Broadcasting Corporation",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CFTM": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/330px-TVA_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 97,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/330px-TVA_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 97,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/0/00/TVA_logo_2020.svg/960px-TVA_logo_2020.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/TVA_logo_2020.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:TVA_logo_2020.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=97221237",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2020-12-03 01:05:44",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "TVA logo 2020",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Dot-like letters in logos|SVG logos of television channels of Canada|SVG logos of TVA",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo for the TVA television network in Canada.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-11-11",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.qub.ca/tvaplus/tva\">https://www.qub.ca/tvaplus/tva</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Groupe TVA inc.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CFCF": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/330px-CTV_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 95,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/330px-CTV_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 95,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/960px-CTV_logo_2018.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/CTV_logo_2018.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:CTV_logo_2018.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=72904199",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2023-10-29 14:00:23",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "CTV logo 2018",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Green triangles|Red circle logos|Blue square logos|All-caps logos|Valid SVG created with Adobe Illustrator:Text logos|White logos with transparent background|CTV letter combinations|Grid logos|CTV Television Network logos|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "This is a logo for CTV, a Canadian television network.",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2018-09-20",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Own work using: <a rel=\"nofollow\" class=\"external free\" href=\"https://www.ctv.ca/Home\">https://www.ctv.ca/Home</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Bell Media",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CKMI": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Global_Montreal_logo_since_2022.svg/330px-Global_Montreal_logo_since_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 145,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Global_Montreal_logo_since_2022.svg/960px-Global_Montreal_logo_since_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Global_Montreal_logo_since_2022.svg/330px-Global_Montreal_logo_since_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 145,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Global_Montreal_logo_since_2022.svg/960px-Global_Montreal_logo_since_2022.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Global_Montreal_logo_since_2022.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Global_Montreal_logo_since_2022.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=164534051",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-05-02 03:50:45",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Global Montreal logo since 2022",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|Global Television Network logos|PD textlogo|SVG text logos|Images from Logopedia|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Global Montreal logo since 2022",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2022",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Logopedia",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Corus Entertainment",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CIVM": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg/330px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 300,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg/960px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg/330px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 300,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg/960px-T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:T%C3%A9l%C3%A9-Qu%C3%A9bec_logo_2017-18.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=177350710",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-10-25 11:38:36",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Télé-Québec logo 2017-18",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Logos of Quebec|Images from Logopedia|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Télé-Québec logo 2017-18",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://logos.fandom.com/wiki/T%C3%A9l%C3%A9-Qu%C3%A9bec\">https://logos.fandom.com/wiki/T%C3%A9l%C3%A9-Qu%C3%A9bec</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Société de télédiffusion du Québec",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CFTU": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Savoir_m%C3%A9dia_logo_3.png/330px-Savoir_m%C3%A9dia_logo_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 300,
+    "responsiveUrls": {
+      "2": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Savoir_m%C3%A9dia_logo_3.png/330px-Savoir_m%C3%A9dia_logo_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 300,
+      "srcset": "//upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Savoir_m%C3%A9dia_logo_3.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Savoir_m%C3%A9dia_logo_3.png",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=168455132",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2025-06-24 22:30:11",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Savoir média logo 3",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Text logos|With trademark|Logos of television channels in Canada|PD textlogo|Logo images that should use vector graphics|PNG that should use vector graphics|Extracted images",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Savoir média logo 3",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2025-06-24",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "savoir.media",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "Savoir média",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CFJP": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/330px-Noovo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 57,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/960px-Noovo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/330px-Noovo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 57,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Noovo_logo.svg/960px-Noovo_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Noovo_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Noovo_logo.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125990255",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2022-11-27 04:19:42",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Noovo logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "With trademark|PD textlogo|SVG text logos|Valid SVG created with Inkscape:Text logos|SVG blue text logos|Blue gradient logos|2020 logos|Noovo logos|SVGs extracted by Yeeno|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "<bdi lang=\"en\">The logo of <bdi lang=\"\"><a href=\"https://en.wikipedia.org/wiki/en:Noovo\" class=\"extiw\" title=\"w:en:Noovo\"><span title=\"Canadian French-language television network\">Noovo</span></a> – Canadian French-language television network</bdi></bdi>",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2020-08-28",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "Extracted from <a rel=\"nofollow\" class=\"external free\" href=\"https://www.bellmedia.ca/lede/wp-content/uploads/2020/05/Specs_Noovo_Bandeaux_ENFR_Dec2021.pdf\">https://www.bellmedia.ca/lede/wp-content/uploads/2020/05/Specs_Noovo_Bandeaux_ENFR_Dec2021.pdf</a>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "<bdi><a href=\"https://en.wikipedia.org/wiki/en:Noovo\" class=\"extiw\" title=\"w:en:Noovo\"><span title=\"Canadian French-language television network\">Noovo</span></a>\n</bdi>",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CFHD": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/330px-ICI_Montreal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 300,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/960px-ICI_Montreal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/330px-ICI_Montreal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 300,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/960px-ICI_Montreal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/ICI_Montreal.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:ICI_Montreal.png",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=58493827",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2017-05-04 19:20:40",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "ICI Montreal",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "Text logos|With trademark|Logos of television channels in Canada|PD textlogo|ICI letter combinations",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo for ICI Montreal television station (CFHD-DT)",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "2017-05-04",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "icitelevision.ca",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "4517466 Canada Inc.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  },
+  "CJNT": {
+    "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/330px-Citytv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "thumbwidth": 300,
+    "thumbheight": 101,
+    "responsiveUrls": {
+      "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+    },
+    "thumbattribs": {
+      "src": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/330px-Citytv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "decoding": "async",
+      "loading": "lazy",
+      "width": 300,
+      "height": 101,
+      "srcset": "//thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Citytv_logo.svg/960px-Citytv_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+    },
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Citytv_logo.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original",
+    "descriptionurl": "https://commons.wikimedia.org/wiki/File:Citytv_logo.svg",
+    "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=5670305",
+    "extmetadata": {
+      "DateTime": {
+        "value": "2017-10-18 23:59:38",
+        "source": "mediawiki-metadata",
+        "hidden": ""
+      },
+      "ObjectName": {
+        "value": "Citytv logo",
+        "source": "mediawiki-metadata"
+      },
+      "CommonsMetadataExtension": {
+        "value": 1.2,
+        "source": "extension",
+        "hidden": ""
+      },
+      "Categories": {
+        "value": "City TV|With trademark|PD textlogo|SVG simple text logos|SVG logos of television channels of Canada",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "Assessments": {
+        "value": "",
+        "source": "commons-categories",
+        "hidden": ""
+      },
+      "ImageDescription": {
+        "value": "Logo of the <a href=\"https://en.wikipedia.org/wiki/Citytv\" class=\"extiw\" title=\"en:Citytv\">en:Citytv</a> broadcast system. Pd-ineligible because you can't copyright just a basic typeface",
+        "source": "commons-desc-page"
+      },
+      "DateTimeOriginal": {
+        "value": "23 September 2008 (original upload date)",
+        "source": "commons-desc-page"
+      },
+      "Credit": {
+        "value": "<bdi lang=\"en\" dir=\"ltr\">Transferred from <span class=\"plainlinks\"><a class=\"external text\" data-mw-original-href=\"//en.wikipedia.org\" href=\"https://en.wikipedia.org\">en.wikipedia</a></span> to Commons by <a href=\"//commons.wikimedia.org/wiki/User:JamesR\" title=\"User:JamesR\">JamesR</a>.</bdi>",
+        "source": "commons-desc-page"
+      },
+      "Artist": {
+        "value": "The original uploader was <a href=\"https://en.wikipedia.org/wiki/User:Techietim\" class=\"extiw\" title=\"wikipedia:User:Techietim\">Techietim</a> at <a href=\"https://en.wikipedia.org/wiki/\" class=\"extiw\" title=\"wikipedia:\">English Wikipedia</a>.",
+        "source": "commons-desc-page"
+      },
+      "LicenseShortName": {
+        "value": "Public domain",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "UsageTerms": {
+        "value": "Public domain",
+        "source": "commons-desc-page"
+      },
+      "AttributionRequired": {
+        "value": "false",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Copyrighted": {
+        "value": "False",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "Restrictions": {
+        "value": "trademarked",
+        "source": "commons-desc-page",
+        "hidden": ""
+      },
+      "License": {
+        "value": "pd",
+        "source": "commons-templates",
+        "hidden": ""
+      }
+    }
+  }
+}

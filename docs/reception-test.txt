@@ -1,0 +1,7 @@
+ATSC reception test with a KWorld VS-ATSC 330U.
+macOS 27.0.1 / Apple Silicon. Antenna in Montreal.
+Frequency: 515000000 Hz. Capture duration: 5 seconds.
+Native IOUSBLib transport, no kernel extension.
+
+
+

@@ -1,0 +1,59 @@
+# Generated build products, downloads and local media
+/build/
+/dist/
+/reports/
+/recordings/
+/DerivedData/
+/Vendor/VLC/
+/firmware/work/
+/firmware/*.fw
+*.app/
+*.dSYM/
+*.ipa
+*.dmg
+*.zip
+*.log
+
+# macOS metadata (including AppleDouble)
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Xcode user state; keep the project and shared schemes
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+.swiftpm/
+.build/
+
+# Agent and editor workspace state (never part of the public source)
+.codex/
+.agents/
+AGENTS.md
+AGENTS.override.md
+.vscode/
+.idea/
+/docs/RECOVERY.md
+
+# Local development environments
+.venv/
+venv/
+
+# Local configuration and signing material
+.env
+.env.*
+*.local
+*.p12
+*.p8
+*.mobileprovision
+
+# Rust build output; keep Cargo manifests and lockfiles
+target/
+
+# Additional local signing credentials
+*.provisionprofile
+*.keychain
+*.keychain-db
+
