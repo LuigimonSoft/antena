@@ -1,0 +1,22 @@
+* text=auto
+*.swift text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.strings text eol=lf
+*.png binary
+
+# Defense in depth for git archive exports.
+.codex export-ignore
+.agents export-ignore
+AGENTS.md export-ignore
+AGENTS.override.md export-ignore
+docs/RECOVERY.md export-ignore
+build export-ignore
+dist export-ignore
+reports export-ignore
+recordings export-ignore
+Vendor/VLC export-ignore
+firmware/*.fw export-ignore
+**/xcuserdata export-ignore
