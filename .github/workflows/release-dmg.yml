@@ -30,6 +30,13 @@ jobs:
         with:
           persist-credentials: false
 
+      - name: Restore shell script permissions
+        shell: bash
+        run: |
+          set -euo pipefail
+          # Source uploads may lose Git executable bits, including nested build scripts.
+          chmod +x script/*.sh
+
       - name: Check Apple toolchain
         shell: bash
         run: |
