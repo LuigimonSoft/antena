@@ -6,6 +6,24 @@ Antena es una aplicación nativa SwiftUI/AppKit para ver televisión abierta con
 
 El proyecto está dirigido a **macOS 27 o posterior en Apple Silicon** y se abre directamente en **Xcode 27**. Es un proyecto experimental para este hardware, no un controlador oficial de KWorld. La documentación principal y los identificadores del código están en inglés.
 
+## Capturas de pantalla
+
+Capturas reales de Antena recibiendo CBC Montréal mediante el sintonizador USB. La interfaz y los controles se muestran en español.
+
+### Inicio
+
+Logotipos de canales, programa actual y guía horizontal de los próximos programas junto al video en vivo.
+
+![Inicio de Antena con CBC Montréal en vivo, logotipos y guía de programación](docs/images/es/dashboard.png)
+
+### Reproductor en vivo
+
+Cambio rápido de canal y controles de grabación, volumen, subtítulos y pantalla completa. Los controles se ocultan automáticamente durante la reproducción.
+
+![Reproductor de Antena con cambio de canal y controles de grabación y reproducción](docs/images/es/live-player.png)
+
+Las imágenes de las emisiones y los logotipos pertenecen a sus respectivos titulares.
+
 ## Índice
 
 1. [Funciones y estado](#funciones-y-estado)

@@ -6,6 +6,24 @@ Antena est une application native SwiftUI/AppKit pour regarder la télévision h
 
 Le projet cible **macOS 27 ou ultérieur sur Apple Silicon** et s’ouvre directement dans **Xcode 27**. C’est un projet expérimental pour ce matériel, et non un pilote officiel de KWorld. La documentation principale et les identifiants du code sont en anglais.
 
+## Captures d’écran
+
+Captures réelles d’Antena recevant CBC Montréal avec le syntoniseur USB. L’interface et les commandes sont présentées en français.
+
+### Accueil
+
+Logos des chaînes, émission en cours et guide horizontal des émissions à suivre, avec la vidéo en direct.
+
+![Accueil d’Antena avec CBC Montréal en direct, logos et guide des programmes](docs/images/fr/dashboard.png)
+
+### Lecteur en direct
+
+Changement rapide de chaîne et commandes d’enregistrement, de volume, de sous-titres et de plein écran. Les commandes se masquent automatiquement pendant la lecture.
+
+![Lecteur d’Antena avec changement de chaîne et commandes d’enregistrement et de lecture](docs/images/fr/live-player.png)
+
+Les images des émissions et les logos appartiennent à leurs détenteurs respectifs.
+
 ## Sommaire
 
 1. [Fonctions et état](#fonctions-et-état)
