@@ -39,19 +39,20 @@ jobs:
           sdk="$(xcrun --sdk macosx --show-sdk-version)"
           [[ "${sdk%%.*}" -ge 27 ]]
 
-      - name: Restore verified firmware from repository secret
+      - name: Restore verified firmware from repository secrets
         shell: bash
         env:
-          XC3028_FIRMWARE_BASE64: ${{ secrets.XC3028_FIRMWARE_BASE64 }}
+          XC3028_FIRMWARE_BASE64_1: ${{ secrets.XC3028_FIRMWARE_BASE64_1 }}
+          XC3028_FIRMWARE_BASE64_2: ${{ secrets.XC3028_FIRMWARE_BASE64_2 }}
         run: |
           set -euo pipefail
-          if [[ -z "$XC3028_FIRMWARE_BASE64" ]]; then
-            echo '::error::Configure XC3028_FIRMWARE_BASE64 with the exact locally acquired firmware. See docs/RELEASES.md.'
+          if [[ -z "$XC3028_FIRMWARE_BASE64_1" || -z "$XC3028_FIRMWARE_BASE64_2" ]]; then
+            echo '::error::Configure both XC3028_FIRMWARE_BASE64_1 and XC3028_FIRMWARE_BASE64_2 with the two firmware parts. See docs/RELEASES.md.'
             exit 1
           fi
           umask 077
           mkdir -p firmware
-          printf '%s' "$XC3028_FIRMWARE_BASE64" | /usr/bin/base64 -D > firmware/xc3028-v27.fw
+          printf '%s%s' "$XC3028_FIRMWARE_BASE64_1" "$XC3028_FIRMWARE_BASE64_2" | /usr/bin/base64 -D > firmware/xc3028-v27.fw
           ./script/antena_tools.sh verify-firmware
 
       - name: Prepare pinned VideoLAN runtime
