@@ -1,0 +1,95 @@
+name: Build release DMG
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Optional version override (major.minor.patch); otherwise use VERSION'
+        required: false
+        type: string
+  push:
+    tags:
+      - 'v[0-9]*'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: release-dmg-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: xcode-27
+    timeout-minutes: 45
+    env:
+      APP_VERSION: ${{ inputs.version || '' }}
+    steps:
+      - name: Check out sources
+        uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+
+      - name: Check Apple toolchain
+        shell: bash
+        run: |
+          set -euo pipefail
+          xcodebuild -version
+          [[ "$(uname -m)" == arm64 ]]
+          sdk="$(xcrun --sdk macosx --show-sdk-version)"
+          [[ "${sdk%%.*}" -ge 27 ]]
+
+      - name: Restore verified firmware from repository secret
+        shell: bash
+        env:
+          XC3028_FIRMWARE_BASE64: ${{ secrets.XC3028_FIRMWARE_BASE64 }}
+        run: |
+          set -euo pipefail
+          if [[ -z "$XC3028_FIRMWARE_BASE64" ]]; then
+            echo '::error::Configure XC3028_FIRMWARE_BASE64 with the exact locally acquired firmware. See docs/RELEASES.md.'
+            exit 1
+          fi
+          umask 077
+          mkdir -p firmware
+          printf '%s' "$XC3028_FIRMWARE_BASE64" | /usr/bin/base64 -D > firmware/xc3028-v27.fw
+          ./script/antena_tools.sh verify-firmware
+
+      - name: Prepare pinned VideoLAN runtime
+        run: ./script/bootstrap_vlc.sh
+
+      - name: Test native tools and application models
+        shell: bash
+        run: |
+          set -euo pipefail
+          make test
+          ./script/antena_tools.sh self-test
+          xcrun swiftc Antena/Support/Localization.swift Antena/Models/Channel.swift Antena/Services/CityCatalog.swift Tests/CityCatalogTests.swift -o build/city-tests
+          ./build/city-tests
+          xcrun swiftc Antena/Support/Localization.swift Antena/Models/Channel.swift Antena/Stores/LibraryStore.swift Tests/LibraryStoreTests.swift -o build/library-tests
+          ./build/library-tests
+          xcrun swiftc Antena/Services/RecordingWriter.swift Tests/RecordingWriterTests.swift -o build/writer-tests
+          ./build/writer-tests
+
+      - name: Build Release and verify disk image
+        run: ./script/build_release.sh
+
+      - name: Upload installable disk image and checksum
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: Antena-macOS27-arm64-${{ github.run_number }}
+          path: |
+            dist/Antena-*-arm64.dmg
+            dist/Antena-*-arm64.dmg.sha256
+          if-no-files-found: error
+          retention-days: 14
+
+      - name: Upload build diagnostics
+        if: failure()
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: release-build-logs-${{ github.run_number }}
+          path: |
+            build/release-build.log
+            build/release-package.log
+          if-no-files-found: ignore
+          retention-days: 7
